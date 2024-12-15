@@ -24,11 +24,11 @@ A simple and interactive Todo Website built using React. This project was develo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TodoWebsite.git
+   git clone https://github.com/abhigorde15/TodoProjectVersion2.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd TodoWebsite
+   cd TodoProjectVersion2
    ```
 3. Install the dependencies:
    ```bash
@@ -65,7 +65,7 @@ TodoWebsite/
 ├── README.md
 ```
 
-## Future Improvements
+## Future Improvements(I'll work On it)
 - Add an option to edit existing todos.
 - Implement a feature to mark todos as completed.
 - Integrate local storage to persist todos.
