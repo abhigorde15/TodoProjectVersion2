@@ -43,7 +43,7 @@ A simple and interactive Todo Website built using React. This project was develo
    ```
 2. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   (http://localhost:5173)
    ```
 3. Interact with the application by adding and deleting todos.
 
